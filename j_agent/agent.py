@@ -3,7 +3,7 @@ from google.adk.agents import Agent
 
 
 root_agent = Agent(
-    name="tool_agent",
+    name="j_agent",
     # https://ai.google.dev/gemini-api/docs/models
     model="gemini-2.0-flash",
     description="User Role Identifier",
